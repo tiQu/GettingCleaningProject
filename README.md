@@ -1,4 +1,4 @@
-**This explains the code in run_analysis.R, submitted for the Getting and Cleaning Data course (Coursera).**
+**This explains the code in run_analysis.R, submitted for the Getting and Cleaning Data course (Coursera).**  
 Further explanatory notes can be found in the R file itself.
 
 *Here are the steps of the code:*
