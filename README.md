@@ -1,6 +1,6 @@
-This explains the code in run_analysis.R, submitted for the Getting and Cleaning Data course (Coursera). 
+**This explains the code in run_analysis.R, submitted for the Getting and Cleaning Data course (Coursera). **
 
-Here are the steps of the code:
+*Here are the steps of the code:*
 0. Downloading, unzipping, loading required packages. Saving the date on which the data was downloaded. 
 1. Reading train and test datasets into R objects, then merging the two.
 2. Reading the features.txt to extract measurements on the mean and standard deviation. 
